@@ -1,0 +1,147 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Type: application/json
+Date: Mon, 15 Jul 2024 17:52:34 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Vercel-Cache: MISS
+X-Vercel-Id: sin1::iad1::wpc2x-1721065951540-1b6653a61aa7
+Connection: close
+Transfer-Encoding: chunked
+
+{
+  "riaa": [
+    {
+      "query": "riaa lawsuit",
+      "value": 93450
+    },
+    {
+      "query": "udio",
+      "value": 90300
+    },
+    {
+      "query": "what does riaa stand for",
+      "value": 50200
+    },
+    {
+      "query": "riaa bar hamburg",
+      "value": 32900
+    },
+    {
+      "query": "tyla",
+      "value": 11550
+    },
+    {
+      "query": "amira riaa instagram",
+      "value": 8950
+    },
+    {
+      "query": "riaa certification levels",
+      "value": 8300
+    },
+    {
+      "query": "riaa equalization",
+      "value": 300
+    },
+    {
+      "query": "katy perry riaa",
+      "value": 140
+    },
+    {
+      "query": "amira riaa",
+      "value": 60
+    },
+    {
+      "query": "riaa forstærker",
+      "value": 50
+    }
+  ],
+  "gpts": [
+    {
+      "query": "list of gpts",
+      "value": 49400
+    },
+    {
+      "query": "notebooklm",
+      "value": 33250
+    },
+    {
+      "query": "claude 3.5 sonnet",
+      "value": 21350
+    },
+    {
+      "query": "gpts 是 什麼",
+      "value": 6500
+    },
+    {
+      "query": "leonardo ai",
+      "value": 3900
+    },
+    {
+      "query": "claude",
+      "value": 300
+    },
+    {
+      "query": "gpts 사용법",
+      "value": 300
+    },
+    {
+      "query": "zapier",
+      "value": 250
+    },
+    {
+      "query": "note",
+      "value": 200
+    },
+    {
+      "query": "claude ai",
+      "value": 190
+    },
+    {
+      "query": "gpts 是 什么",
+      "value": 150
+    },
+    {
+      "query": "midjourney",
+      "value": 150
+    },
+    {
+      "query": "stable diffusion",
+      "value": 130
+    },
+    {
+      "query": "chatgpt plus",
+      "value": 130
+    },
+    {
+      "query": "top gpts",
+      "value": 120
+    },
+    {
+      "query": "gpts action",
+      "value": 110
+    },
+    {
+      "query": "deepl",
+      "value": 110
+    },
+    {
+      "query": "chatgpt プラグ イン",
+      "value": 100
+    },
+    {
+      "query": "gpts hunter",
+      "value": 90
+    },
+    {
+      "query": "create gpts",
+      "value": 70
+    },
+    {
+      "query": "gpts 検索",
+      "value": 60
+    }
+  ]
+}
