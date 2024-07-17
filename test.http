@@ -2,8 +2,10 @@
 @baseUri1=https://pytrends-fastapi-vercel.vercel.app
 @baseUri2=http://localhost:8000
 
+@baseUri3=https://pytrends-fastapi.onrender.com
+
 ### Health Check
-GET {{baseUri1}}
+GET {{baseUri3}}
 # 预期结果：200 OK
 # 响应体："The health check is successful!"
 
@@ -13,7 +15,7 @@ GET {{baseUri1}}/trends?kw_list=riaa&timeframe=today%201-m
 # 响应体：包含"riaa"关键词在过去一个月的趋势数据
 
 ### Get Trends for multiple keywords
-GET {{baseUri1}}/trends?kw_list=riaa&kw_list=gpts&timeframe=today%201-m
+GET {{baseUri3}}/trends?kw_list=riaa&kw_list=gpts&timeframe=today%201-m
 # 预期结果：200 OK
 # 响应体：包含"riaa"和"gpts"关键词在过去一个月的趋势数据
 
